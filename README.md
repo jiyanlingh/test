@@ -1,2 +1,2 @@
 # test
-i will start github journary from this repository
+i will start github journey from this repository
